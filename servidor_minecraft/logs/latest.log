@@ -1,63 +1,105 @@
-[29Jan2025 17:36:43.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Jan2025 17:36:43.456] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Jan2025 17:36:43.688] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Jan2025 17:36:43.701] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[29Jan2025 17:36:43.702] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/bookish-parakeet/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23101!/
-[29Jan2025 17:36:43.712] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/bookish-parakeet/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
-[29Jan2025 17:36:43.714] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[29Jan2025 17:36:43.767] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Jan2025 17:36:43.777] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[29Jan2025 17:36:44.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 17:36:44.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 17:36:44.024] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 17:36:44.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 17:36:44.128] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[29Jan2025 17:36:44.739] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[29Jan2025 17:36:44.747] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[29Jan2025 17:36:45.460] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[29Jan2025 17:36:45.857] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Jan2025 17:36:51.222] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Jan2025 17:36:51.224] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Jan2025 17:36:51.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jan2025 17:36:52.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[29Jan2025 17:36:52.884] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Jan2025 17:36:53.707] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
-[29Jan2025 17:36:53.708] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
-[29Jan2025 17:36:55.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[29Jan2025 17:36:55.642] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[29Jan2025 17:36:56.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Jan2025 17:36:56.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jan2025 17:36:56.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jan2025 17:36:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jan2025 17:36:56.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jan2025 17:36:56.195] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jan2025 17:36:56.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jan2025 17:36:56.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jan2025 17:36:56.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jan2025 17:36:56.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jan2025 17:36:56.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jan2025 17:36:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jan2025 17:37:03.187] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.230] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.279] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:03.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 17:37:04.248] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[29Jan2025 17:37:04.732] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5485 ms
-[29Jan2025 17:37:04.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.457s)! For help, type "help"
-[29Jan2025 17:37:04.748] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jan2025 17:39:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Jan2025 17:39:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Jan2025 17:39:46.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Jan2025 17:39:46.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Jan2025 17:39:46.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Jan2025 17:39:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Jan2025 17:39:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Jan2025 17:39:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Jan2025 17:39:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Jan2025 17:39:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jan2025 17:41:25.630] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Jan2025 17:41:25.634] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Jan2025 17:41:25.833] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Jan2025 17:41:25.847] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[29Jan2025 17:41:25.848] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/bookish-parakeet/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23101!/
+[29Jan2025 17:41:25.867] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/bookish-parakeet/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
+[29Jan2025 17:41:25.869] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[29Jan2025 17:41:25.919] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Jan2025 17:41:25.928] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[29Jan2025 17:41:26.128] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 17:41:26.131] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 17:41:26.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 17:41:26.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 17:41:26.243] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Jan2025 17:41:26.708] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[29Jan2025 17:41:26.717] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[29Jan2025 17:41:27.414] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[29Jan2025 17:41:27.817] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Jan2025 17:41:33.299] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Jan2025 17:41:33.302] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Jan2025 17:41:33.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jan2025 17:41:34.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[29Jan2025 17:41:34.893] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Jan2025 17:41:35.608] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
+[29Jan2025 17:41:35.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
+[29Jan2025 17:41:37.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[29Jan2025 17:41:37.160] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[29Jan2025 17:41:37.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Jan2025 17:41:37.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jan2025 17:41:37.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jan2025 17:41:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jan2025 17:41:37.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jan2025 17:41:37.678] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jan2025 17:41:37.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jan2025 17:41:37.749] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jan2025 17:41:37.749] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jan2025 17:41:37.749] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jan2025 17:41:37.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jan2025 17:41:38.762] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29Jan2025 17:41:40.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jan2025 17:41:44.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.016] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.070] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.090] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.129] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.163] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.205] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 17:41:45.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[29Jan2025 17:41:46.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[29Jan2025 17:41:46.337] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5666 ms
+[29Jan2025 17:41:46.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.578s)! For help, type "help"
+[29Jan2025 17:41:46.354] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jan2025 17:42:06.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/172.25.151.220:56890] logged in with entity id 166 at (-1792.6409311897812, 64.0, 617.5907417351939)
+[29Jan2025 17:42:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
+[29Jan2025 21:03:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> -2007 646
+[29Jan2025 21:04:53.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ileeann[/172.25.226.16:52434] logged in with entity id 42034 at (-1759.622276560678, 63.0, 539.8065923038274)
+[29Jan2025 21:04:53.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann joined the game
+[29Jan2025 21:06:17.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann was shot by Skeleton
+[29Jan2025 21:06:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q noob
+[29Jan2025 21:07:18.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ileeann> ya no se cuantas veces he muerto
+[29Jan2025 21:07:33.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[29Jan2025 21:08:32.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[29Jan2025 21:11:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ileeann> has visto mi cama?
+[29Jan2025 21:11:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
+[29Jan2025 21:11:59.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[29Jan2025 21:13:11.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann was slain by Spider
+[29Jan2025 21:13:39.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ileeann> la ultima vez que me matan y no juego mas JAJAAJ
+[29Jan2025 21:13:43.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Timed out
+[29Jan2025 21:13:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[29Jan2025 21:13:43.489] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jan2025 21:21:09.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/172.25.151.220:61701] logged in with entity id 58988 at (-2007.5, 71.0, 646.9219947299135)
+[29Jan2025 21:21:09.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
+[29Jan2025 21:24:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> asd
+[29Jan2025 21:24:39.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Timed out
+[29Jan2025 21:24:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[29Jan2025 21:29:21.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1747, y=62, z=568} BlockPos{x=-1748, y=62, z=567}
+[29Jan2025 21:31:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann was shot by Skeleton
+[29Jan2025 21:32:58.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann lost connection: You logged in from another location
+[29Jan2025 21:32:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann left the game
+[29Jan2025 21:32:58.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ileeann[/172.25.226.16:57860] logged in with entity id 63839 at (-0.30000001192092896, 40.0, 12.699999988079071)
+[29Jan2025 21:32:58.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann joined the game
+[29Jan2025 21:38:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ileeann> ema por si lees te voy a robar cosas
+[29Jan2025 22:07:32.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann lost connection: Disconnected
+[29Jan2025 22:07:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann left the game
+[29Jan2025 22:11:54.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/172.25.151.220:53623] logged in with entity id 82139 at (-1992.912218106853, 71.79673560066871, 645.8449245682692)
+[29Jan2025 22:11:54.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
+[29Jan2025 22:13:41.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/87325, l='ServerLevel[world]', x=-1431.87, y=62.50, z=648.87] died, message: 'Nitwit was slain by Zombie'
+[29Jan2025 23:25:52.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved wrongly!
+[29Jan2025 23:29:03.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved wrongly!
+[29Jan2025 23:29:19.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved wrongly!
+[29Jan2025 23:45:37.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
+[29Jan2025 23:45:37.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[29Jan2025 23:48:31.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jan2025 23:48:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jan2025 23:48:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jan2025 23:48:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jan2025 23:48:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jan2025 23:48:31.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jan2025 23:48:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jan2025 23:48:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jan2025 23:48:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jan2025 23:48:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
