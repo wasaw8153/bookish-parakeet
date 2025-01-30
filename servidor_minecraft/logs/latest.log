@@ -61,3 +61,5 @@
 [30Jan2025 18:49:06.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/172.25.151.220:56571] logged in with entity id 173 at (-1854.357604407468, 66.0, 684.3647859045637)
 [30Jan2025 18:49:06.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
 [30Jan2025 18:49:08.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2874ms or 57 ticks behind
+[30Jan2025 19:33:42.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[30Jan2025 19:43:06.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved too quickly! 1741.8009611457853,41.31620315946081,-428.3269016745093
