@@ -61,3 +61,16 @@
 [31Jan2025 17:13:47.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
 [31Jan2025 17:13:49.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
 [31Jan2025 17:17:33.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved too quickly! 1743.0068778948696,42.99866402088785,-426.2165339377164
+[31Jan2025 17:34:41.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.3638694203942521
+[31Jan2025 17:34:41.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.48901555279724107
+[31Jan2025 17:34:41.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.4777737396864268
+[31Jan2025 17:34:41.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.41362113965783465
+[31Jan2025 17:34:48.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.2627237332504677
+[31Jan2025 17:34:48.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.2627237332504677
+[31Jan2025 17:34:48.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.2627237332504677
+[31Jan2025 17:34:48.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.2627237332504677
+[31Jan2025 17:34:50.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.26779039525710857
+[31Jan2025 17:34:50.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.35260776414489925
+[31Jan2025 17:34:52.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.5635658305008135
+[31Jan2025 17:34:52.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EmBsNi) moved wrongly! 0.7227244685271828
+[31Jan2025 17:38:05.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved wrongly!
