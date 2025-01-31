@@ -78,3 +78,15 @@
 [31Jan2025 17:53:30.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
 [31Jan2025 17:58:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi has made the advancement [Voluntary Exile]
 [31Jan2025 18:10:02.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved too quickly! -15.550227261762274,-2.2578955485096373,8.452665108441806
+[31Jan2025 18:14:43.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
+[31Jan2025 18:14:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[31Jan2025 18:14:57.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 18:14:57.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 18:14:57.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 18:14:57.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jan2025 18:14:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jan2025 18:14:57.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jan2025 18:14:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 18:14:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 18:14:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jan2025 18:14:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
