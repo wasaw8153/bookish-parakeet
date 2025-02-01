@@ -1718,3 +1718,52 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Feb2025 21:24:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> de arbol
 [01Feb2025 21:24:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> n
 [01Feb2025 21:24:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
+[01Feb2025 21:24:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> salio medio deforme el escudo
+[01Feb2025 21:24:52.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ta bien
+[01Feb2025 21:24:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> le falta
+[01Feb2025 21:24:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> negro por alrededor
+[01Feb2025 21:25:07.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> remarcarlo xd
+[01Feb2025 21:25:11.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ???
+[01Feb2025 21:25:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> aah
+[01Feb2025 21:25:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dame negro
+[01Feb2025 21:25:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy a buscar
+[01Feb2025 21:25:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok+
+[01Feb2025 21:25:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dame, negro
+[01Feb2025 21:25:36.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
+[01Feb2025 21:25:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> *+
+[01Feb2025 21:26:04.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1847, y=63, z=574} BlockPos{x=-1847, y=63, z=575}
+[01Feb2025 21:26:10.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi moved too quickly! 0.08488759253856415,-0.20000004768371582,-10.144196674686569
+[01Feb2025 21:26:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a veces me sorprende lo fanatico que soy de central
+[01Feb2025 21:26:48.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> uy
+[01Feb2025 21:26:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> en 30 juega la kd
+[01Feb2025 21:27:16.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> kd?
+[01Feb2025 21:27:21.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> la "acade"
+[01Feb2025 21:27:23.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> kd
+[01Feb2025 21:27:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me parecia
+[01Feb2025 21:27:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> vamo la kd
+[01Feb2025 21:28:13.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:28:13.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:29:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cuantas canciones de central te sabes?
+[01Feb2025 21:29:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ni 1
+[01Feb2025 21:29:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el principio de alguna
+[01Feb2025 21:30:13.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> vos por casualidad
+[01Feb2025 21:30:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
+[01Feb2025 21:30:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> te metiste a un portal del nether y sacaste el fuego q habia?
+[01Feb2025 21:30:28.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zi
+[01Feb2025 21:30:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pta madre
+[01Feb2025 21:30:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
+[01Feb2025 21:32:54.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ese fuego es para el cargador de chunks
+[01Feb2025 21:32:54.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 moved wrongly!
+[01Feb2025 21:33:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> eu
+[01Feb2025 21:33:03.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ahi loa rregle
+[01Feb2025 21:33:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> deje 2 fueguitos
+[01Feb2025 21:33:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tiene q tener todo fuego
+[01Feb2025 21:33:13.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:33:13.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:33:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok..
+[01Feb2025 21:33:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> perdon
+[01Feb2025 21:33:24.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> me tengo que matar ahora
+[01Feb2025 21:33:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pipipi
+[01Feb2025 21:33:27.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> XD
+[01Feb2025 21:33:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> por deshonrar a la patria
+[01Feb2025 21:34:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ahora no me funca wat
