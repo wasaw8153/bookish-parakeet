@@ -677,3 +677,17 @@
 [01Feb2025 21:43:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
 [01Feb2025 21:43:05.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
 [01Feb2025 21:43:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[01Feb2025 21:46:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elbasado33: avisame por ds cuando te salgas
+[01Feb2025 21:46:16.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
+[01Feb2025 22:11:54.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 lost connection: Disconnected
+[01Feb2025 22:11:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 left the game
+[01Feb2025 22:13:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 22:13:36.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 22:13:36.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 22:13:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 22:13:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 22:13:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

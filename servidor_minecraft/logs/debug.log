@@ -1780,3 +1780,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Feb2025 21:43:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
 [01Feb2025 21:43:13.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 21:43:13.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:46:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elbasado33: avisame por ds cuando te salgas
+[01Feb2025 21:46:16.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
+[01Feb2025 21:48:13.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:48:13.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:53:13.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:53:13.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:58:13.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:58:13.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:03:13.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:03:13.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:08:13.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:08:13.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:11:54.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 lost connection: Disconnected
+[01Feb2025 22:11:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 left the game
+[01Feb2025 22:13:13.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:13:13.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:13:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 22:13:36.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 22:13:36.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 22:13:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 22:13:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 22:13:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 22:13:37.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:13:37.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 22:13:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Feb2025 22:13:37.340] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
